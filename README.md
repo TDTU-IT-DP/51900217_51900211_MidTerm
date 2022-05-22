@@ -7,7 +7,7 @@ TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM**
 **KHOA CÔNG NGHỆ THÔNG TIN** 
 
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.001.png)
+![image1](https://user-images.githubusercontent.com/102459903/169710998-4e70d09b-6316-4e53-933b-adb2e2f7fe4a.png)
 
 
 
@@ -36,7 +36,7 @@ TỔNG LIÊN ĐOÀN LAO ĐỘNG VIỆT NAM**
 **KHOA CÔNG NGHỆ THÔNG TIN** 
 
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.001.png)
+![image1](https://user-images.githubusercontent.com/102459903/169710998-4e70d09b-6316-4e53-933b-adb2e2f7fe4a.png)
 
 
 
@@ -317,53 +317,54 @@ Ví dụ: trang quản lý nhân viên của một khách sạn, khi khởi tạ
 
 ***1.1 Class diagram***
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.002.png)
+![image2](https://user-images.githubusercontent.com/102459903/169711067-ab8edf2b-4f20-47d5-8abd-0c6141cdf8b8.png)
+
 
 ***1.2 Chi tiết ứng dụng***
 
 1.2.1 Lớp interface xe ô tô
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.003.png)
+![image3](https://user-images.githubusercontent.com/102459903/169711071-0a5d5ba2-6f0b-49c5-aaab-9ba411b9f074.png)
 
 1.2.2 Lớp chứa thông tin xe ô tô
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.004.png)
+![image4](https://user-images.githubusercontent.com/102459903/169711073-b47af1eb-cf91-4dc8-a4f3-972703506f02.png)
 
 1.2.3 Lớp trường tượng decorator
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.005.png)
+![image5](https://user-images.githubusercontent.com/102459903/169711076-c205f097-ef54-4a2d-a80e-b0bc84cd7391.png)
 
 1.2.4 Lớp chứa thông tin phụ kiện
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.006.png)
+![image6](https://user-images.githubusercontent.com/102459903/169711077-f8461f3b-e37e-4ebb-bbff-ec3987e0f8ca.png)
 
 **2 Factory method pattern**
 
 ***2.1 Class diagram***
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.007.png)
+![image7](https://user-images.githubusercontent.com/102459903/169711082-b8522338-38de-4645-9dfa-f868f4c3bc33.png)
 
 ***2.2 Chi tiết ứng dụng***
 
 2.2.1 Lớp interface hãng sản xuất xe ô tô
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.008.png)
+![image8](https://user-images.githubusercontent.com/102459903/169711088-9bac6c12-0b9a-410d-98ff-f70b5b0c3e4b.png)
 
 2.2.2 Lớp tên hãng sản xuất xe ô tô
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.009.png)
+![image9](https://user-images.githubusercontent.com/102459903/169711093-b066e420-c348-4a36-9154-c45382c15d07.png)
 
 2.2.3 Lớp danh sách tên các hãng sản xuất xe
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.010.png)
+![image10](https://user-images.githubusercontent.com/102459903/169711099-b09940dc-056f-40c9-b439-865bdc59c9ce.png)
 
 2.2.4 Lớp factory
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.011.png)
+![image11](https://user-images.githubusercontent.com/102459903/169711101-d366d569-cdf3-4919-8ea3-88446f9ba84a.png)
 
 2.2.5 Lớp chứa thông tin xe ô tô
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.012.png)
+![image12](https://user-images.githubusercontent.com/102459903/169711105-132b144f-55b6-430c-b2c9-03609ccee3d5.png)
 
 
 
@@ -381,11 +382,11 @@ Ví dụ: trang quản lý nhân viên của một khách sạn, khi khởi tạ
 
 **1 Lớp main tính giá tiền**
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.013.png)
+![image13](https://user-images.githubusercontent.com/102459903/169711125-ba8998b3-1364-47ee-9e54-0c0b3e180612.png)
 
 **2 Kết quả đạt được**
 
-![](Aspose.Words.16e33b23-2de8-43a5-af3f-b1346a77d3d4.014.png)
+![image14](https://user-images.githubusercontent.com/102459903/169711135-15e0813f-e600-4db4-9f23-8379aa28ee05.png)
 
 
 
