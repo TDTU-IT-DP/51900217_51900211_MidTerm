@@ -5,7 +5,7 @@ public class Deco_AutomaticLock extends CarDecorator {
     }
 
     public String Name() {
-        return car.BrandName() + " " + car.Name() + " + Automatic Lock";
+        return "Automatic Lock";
     }
 
     public float Price() {
