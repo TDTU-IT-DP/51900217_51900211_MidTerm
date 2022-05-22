@@ -6,7 +6,7 @@ public class Deco_GPS extends CarDecorator {
 
     @Override
     public String Name() {
-        return car.BrandName() + " " + car.Name() + " + Global Positioning System";
+        return "Global Positioning System";
     }
 
     @Override
