@@ -9,7 +9,7 @@ public class Client {
             System.out.println("This brand is not supported.");
         } else {
             float total = car.Price() + dashCam.Price() + rearViewCam.Price() + autoLock.Price();
-            System.out.println("Total Price of " + car.BrandName() + " " + car.Name() + " with accessories: " + total + "$");
+            System.out.println("Total Price of " + car.BrandName() + " " + car.Name() + " with accessories (" + autoLock.Name() + " + " + dashCam.Name() + " + " + rearViewCam.Name() + "): " + total + "$");
         }
     }
     
