@@ -6,7 +6,7 @@ public class Deco_DashCam extends CarDecorator {
 
     @Override
     public String Name() {
-        return car.BrandName() + " " + car.Name() + " + Dash Camera";
+        return "Dash Camera";
     }
 
     @Override
