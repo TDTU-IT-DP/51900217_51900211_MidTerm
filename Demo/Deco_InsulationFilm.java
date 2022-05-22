@@ -6,7 +6,7 @@ public class Deco_InsulationFilm extends CarDecorator {
 
     @Override
     public String Name() {
-        return car.BrandName() + " " + car.Name() + " + Insulation Film";
+        return "Insulation Film";
     }
 
     @Override
